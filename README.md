@@ -51,7 +51,14 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 
  
 
-(coloque aqui tudo que você fez referente ao capítulo 2 no formato exato de BD)
+Foi verificado junto a empresa a necessidade de um cadastro de funcionários em regime de CLT,  um acesso online aos funcionários e cooperados para eles mesmo poderem cadastrar o currículo e esse currículo já entrar no nosso sistema.
+
+O sistema terá a mesma funcões do sistema antigo com as devidas melhoras.
+
+Será necessário o uso de MySQL, o Sistema será feito usando o Springboot.
+
+Servidor Apache.
+
 
  
 
