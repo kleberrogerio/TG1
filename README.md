@@ -64,7 +64,9 @@ Servidor Apache.
 
 # 1ª Quinzena de junho
  
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD)
+Será necessário instalar uma máquina virtual (Virtual box) pelo motivo que o sistema que vai ser reestruturado não funciona em 64 bits. 
+
+Nessa máquina virtual será instalado o MYSQL para a organização das tabelas do banco de dados anterior.  
 
  
 
