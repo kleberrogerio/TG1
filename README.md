@@ -82,7 +82,8 @@ Nessa máquina virtual será instalado o MYSQL para a organização das tabelas 
 
 # Levantamento de requisitos do sistema atual.
 ## CADASTRANDO COOPERADOS
- 
+
+![CadastroCooperados](https://github.com/kleberrogerio/TG1/blob/master/Cadastro_cooperados.jpg) 
  
 O cadastro de cooperados será feito somente pelo módulo de interessados, uma vez que o você clicar no botão Tornar cooperado no módulo interessados.
 
