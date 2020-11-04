@@ -81,135 +81,173 @@ Nessa máquina virtual será instalado o MYSQL para a organização das tabelas 
 # 1ª Quinzena de julho
 
 # Levantamento de requisitos do sistema atual.
-## CADASTRANDO COOPERADOS
+### CADASTRANDO COOPERADOS
 
 ![CadastroCooperados](https://github.com/kleberrogerio/TG1/blob/master/Cadastro_cooperados.jpg) 
  
 O cadastro de cooperados será feito somente pelo módulo de interessados, uma vez que o você clicar no botão Tornar cooperado no módulo interessados.
 
-## ALTERANDO OS DADOS
+### ALTERANDO OS DADOS
 	
 Já que os dados de cooperados já estão previamente cadastrados podemos apenas adicionar ou alterar dados e para isso é necessário clicar no botão alterar.
 
 
 ## ABA DADOS PESSOAIS 
 
-## Detalhe de preenchimento dos campos
+### Detalhe de preenchimento dos campos
 
 
-## Veja com detalhes como deve ser o preenchimento dos campos :
+### Veja com detalhes como deve ser o preenchimento dos campos :
 
-## Matricula
+### Matricula
 
 O sistema automaticamente lhe dará um número de inscrição que será mostrado no primeiro campo na parte superior da tela. 
 	
 
 
-## Data de Cadastro 
+### Data de Cadastro 
 
 O sistema colocará uma data corrente do computador, ressaltamos a necessidade de que a data do computador esteja correta.
 Caso seja necessário alterá-la o preenchimento manual deve ser feito de maneira  dd-mm-aaaa.
 Exemplo : 23-01-2001
 
-## Data de Nascimento 
+### Data de Nascimento 
 
 É necessário que a data de nascimento seja  preenchida manual deve ser feito de maneira  dd-mm-aaaa.
 Exemplo : 12-01-1970
 
-## Nº de Filhos 
+### Nº de Filhos 
 
 O preenchimento do número de filhos deve ser feito manualmente deve ser preenchido sem zeros a esquerda.
 
-## Nome 
+### Nome 
 
 É imprescindível que se preencha o campo nome o mais completo possível  e sem acentos para facilitar as pesquisas posteriores.
 
-## Nome de Guerra
+### Nome de Guerra
 
 O nome de guerra não tem necessidade de ser preenchido, mas é um dado útil futuramente.
 
-## CPF
+### CPF
 
 O CPF deve ser preenchido de maneira correta e completa
 
-## RG
+### RG
 
 O  RG deve ser preenchido de maneira correta e completa, se possível com o órgão emissor logo após o número
 
-## Órgão Expedidor
+### Órgão Expedidor
 
 O campo órgão expedidor deve ser preenchido com o nome correto 
 
-## Data de Emissão 
+### Data de Emissão 
 
 A data de emissão deve ser preenchida como no exemplo abaixo :
 dd-mm-aaaa : 05-02-2002 .
 
 
-## Estado civil
+### Estado civil
 
 O campo Estado civil já deve estar previamente preenchido, mas caso não esteja é só selecionar uma das opções disponíveis. 
 
-## Sexo
+### Sexo
 O campo sexo deve ser preenchido com uma das opções FEM ou MASC, para facilitar é necessário digitar apenas a primeira letra do sexo.
 
 
-## Data Nasc 
+### Data Nasc 
 A data de nascimento deve ser preenchida no formato dd-mm-aaaa .
            Exemplo : 13-02-1980
 
-## Rua
+### Rua
 A rua deve ser preenchida se possível com o nome completo e com os complementos que existirem.
 
 ## Bairro
 O bairro deve ser  preenchido somente com o nome
 
-## Cep
+### Cep
 É importante que se tenha o CEP correto do interessado, para que não haja problemas posteriores na hora de gerar etiquetas para correspondências.
 
-## Cidade
+### Cidade
 
 A Cidade deve ser preenchida por extenso sem acentos.
 
-## Estado
+### Estado
 O campo estado está ordenado em ordem alfabética para facilitar a localização do mesmo, como nos demais campos do mesmo tipo, basta digitar a primeira letra do estado para que o campo seja preenchido.
 
-## País 
+### País 
 O País deve ser preenchido com o país de residência do cooperado.
 
-## Tel residencial
+### Tel residencial
 O campo telefone Residencial deve ser preenchido com o código de área como no exemplo a seguir :  12 - 39386000
 
-## Tel comercial
+### Tel comercial
 O campo telefone Comercial deve ser preenchido com o código de área como no exemplo a seguir :  12 – 39386000
 
-## Email 
+### Email 
 	# O email deve ser preenchido por extenso incluindo o símbolo ‘ @’ 
 
-## Pai
+### Pai
 O campo pai deve ser preenchido com o nome do pai cooperado e deve ser preenchido de maneira mais completa possível.
 
-## Mae
+### Mae
 O campo Mãe deve ser preenchido com o nome da Mãe  cooperado e deve ser preenchido de maneira mais completa possível 
 
-## Cônjuge 
+### Cônjuge 
 O campo Cônjuge deve ser preenchido com o nome completo pois tal campo é importante para fins de relatórios.
 
-## Local De Nascimento
+### Local De Nascimento
 O campo local de nascimento deve ser preenchido com estado de Nascimento do cooperado.
 
-## Situação 
+### Situação 
 Este campo deve ser preenchido com uma das opções descritas na caixa de opções, para vê-las basta clicar na seta no canto direito da caixa.
 
-## Nacionalidade
+### Nacionalidade
 O campo nacionalidade deve ser preenchido com a nacionalidade do cooperado.
 
-## Desligamento
+### Desligamento
 O campo desligamento deve ser preenchido com a data do desligamento do cooperado quando houver o desligamento e não deve se esquecer que o campo situação deve ser mudado para desligado.
 
-## Motivo
+### Motivo
 O Motivo do desligamento deve ser selecionado como nos campos anteriores clicando no canto da caixa de diálogo.
 
-## Classificação
+### Classificação
 O campo classificação deve ser preenchido com os negócios nos quais o cooperado esta envolvido, para isto basta clicar no botão Incluir , e preencher os campos, para efetuar a exclusão de um negócio deve-se clicar no campo a ser excluído e clicar no botão excluir.
+
+### ABA DADOS COMPLEMENTARES 
+
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+
+### INSCRIÇOES 
+
+	O campo inscrições deve ser preenchido com as inscrições nos órgãos que ele possua como CREA, DAC, INSS , para proceder com o preenchimento basta clicar no botão alterar na Aba Dados Pessoais e clicar no botão incluir ao lado esquerdo do campo.
+
+
+### ANOTAÇOES
+
+	O campo de anotações deve ser preenchido com anotações pertinentes ao cooperado.
+
+
+### DEPENDENTES
+
+	O campo dependentes deve ser preenchido com os dados dos dependentes do cooperado.
+
+
+### BANCOS
+
+	Deve-se preencher este campo com os nomes e números de contas dos cooperados.
+
+
+### DÍVIDAS
+
+	O campo dívidas deve ser preenchido com as dívidas do cooperado junto a cooperativa.
+
+
+### CURSOS DA SERCO
+
+	O  cursos da serco deve ser preenchido com os cursos que o cooperado fez nas dependências da SERCO
+
+
+
+
+
 
