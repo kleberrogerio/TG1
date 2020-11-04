@@ -19,8 +19,6 @@ Título do TG: SISTEMA DE GERENCIAMENTO DE FUNCIONÁRIOS E COOPERADOS
 
  
 
-# 1ª Quinzena de maio
-
 # INTRODUÇÃO
 
 Uma cooperativa tem um sistema de banco de dados que é usado para o contato com os cooperados dessa cooperativa, como foi elaborado em um sistema muito antigo, está inutilizado no momento.
@@ -45,11 +43,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 •	Melhorar a parte de aparência do sistema, para ficar mais agradável e mais moderno.
 
 
- 
 
-# 2ª Quinzena de maio
-
- 
 
 Foi verificado junto a empresa a necessidade de um cadastro de funcionários em regime de CLT,  um acesso online aos funcionários e cooperados para eles mesmo poderem cadastrar o currículo e esse currículo já entrar no nosso sistema.
 
@@ -61,24 +55,10 @@ Servidor Apache.
 
 
  
-
-# 1ª Quinzena de junho
- 
 Será necessário instalar uma máquina virtual (Virtual box) pelo motivo que o sistema que vai ser reestruturado não funciona em 64 bits. 
 
 Nessa máquina virtual será instalado o MYSQL para a organização das tabelas do banco de dados anterior.  
 
- 
-
-# 2ª Quinzena de junho
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + crie um pasta chamada "Desenvolvimento" e coloque o início do código
-
- 
-
-# 1ª Quinzena de julho
 
 # Levantamento de requisitos do sistema atual.
 ### CADASTRANDO COOPERADOS
