@@ -228,17 +228,36 @@ O campo classificação deve ser preenchido com os negócios nos quais o coopera
 
 	O  cursos da serco deve ser preenchido com os cursos que o cooperado fez nas dependências da SERCO
 
+### ABA  DADOS CURRICULARES 
+Os próximos dados a serem preenchidos são os DADOS CURRICULARES do interessado que se encontra na segunda aba na parte superior da tela de cadastro  como mostra a figura abaixo :
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_Curriculares.jpg) 
+### PREENCHIMENTO DOS CAMPOS
 
+### ESCOLARIDADE 
+O primeiro campo a ser preenchido é o campo de ESCOLARIDADE, para preenchê-lo basta clicar para baixo na seta no canto direito do campo e selecionar o tipo de escolaridade desejada.
+
+### CÓDIGO DA ÁREA DE ATUAÇÃO
+
+Seguindo a seqüência de cadastro o próximo campo é CÓDIGO DA ÁREA DE ATUAÇÃO, então deve-se clicar no botão INCLUIR e a seguinte tela irá aparecer 
+
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Atuacao.jpg) 
+### 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Selecione_atuacao.jpg) 
+### 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Selecione_Formacao.jpg) 
+### 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Documentos_Serco.jpg) 
+### 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_Interessados.jpg) 
+### 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Convenios.jpg)
+### 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Selecione_Convenio.jpg) 
+### 
 ![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+### 
 ![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
-![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+### 
 
 
 
