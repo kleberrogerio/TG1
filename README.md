@@ -61,6 +61,8 @@ Nessa máquina virtual será instalado o MYSQL para a organização das tabelas 
 
 
 # Levantamento de requisitos do sistema atual.
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Tela_Principal.jpg) 
+
 ### CADASTRANDO COOPERADOS
 
 ![CadastroCooperados](https://github.com/kleberrogerio/TG1/blob/master/Cadastro_cooperados.jpg) 
@@ -227,6 +229,16 @@ O campo classificação deve ser preenchido com os negócios nos quais o coopera
 	O  cursos da serco deve ser preenchido com os cursos que o cooperado fez nas dependências da SERCO
 
 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
+![DadosComplementares](https://github.com/kleberrogerio/TG1/blob/master/Dados_complementares.jpg) 
 
 
 
